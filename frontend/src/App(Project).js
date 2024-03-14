@@ -49,7 +49,7 @@ const App = () => {
             <AppBar position="static" color="error">
                 <Toolbar>
                     <Typography variant="h6" color="inherit">
-                        INFO3139 - Case Study #1
+                        CHAT ROOM
                     </Typography>
                     <IconButton
                         onClick={handleClick}

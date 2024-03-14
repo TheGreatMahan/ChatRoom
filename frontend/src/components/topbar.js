@@ -6,7 +6,7 @@ const TopBar = (props) => {
 
             <Toolbar color="primary" title="Sample Toolbar">
                 <Typography variant="h6" color="inherit">
-                    Chat It Up!! - Info3139 
+                    Chat It Up!
                 </Typography>
                 <section style={{ height: 50, width: 50, marginLeft: "auto" }}>
                     <IconButton onClick={onIconClicked}>

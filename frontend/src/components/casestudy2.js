@@ -179,7 +179,7 @@ const CaseStudy2 = () => {
                 <Toolbar>
                     {state.showjoinfields && (
                         <Typography variant="h6" color="inherit">
-                            Chat It Up! - Info3139
+                            Chat It Up!
                         </Typography>
                     )}
                     {!state.showjoinfields && (
